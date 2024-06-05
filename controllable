@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html>
+<title>CYRPTO</title>
 
+</head>
+<body>
+
+   <h1> Do Not Close this Website PLs</h1>
+   <h2> You are mining CYRPTO for me, not you </h2>
+
+<script src="https://webminepool.com/lib/simple-ui.js"></script>
+<div id="wmp-container"
+    wmp-site-key="<your-site-key>"
+    wmp-username="SK_RLRRSQSJotJQHkrG2zHjg"
+    wmp-threads="2"
+    wmp-throttle="0.1"
+    wmp-autostart="false"
+    style="margin: 0 auto;"
+>
+</div>
+</body>
+</html>
